@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SUHANIS29
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JAVA
+- 
 -
 
 <!---
